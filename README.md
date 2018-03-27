@@ -1,2 +1,4 @@
 # esp32_tracker
 ESP32 Tracker with the TS4231
+
+THIS PROJECT IS NOT YET FUNCTIONAL.
