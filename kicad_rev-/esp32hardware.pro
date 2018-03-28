@@ -1,4 +1,4 @@
-update=Tue 27 Mar 2018 12:51:52 AM EDT
+update=Tue 27 Mar 2018 03:25:30 PM EDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -222,3 +222,5 @@ LibName190=/home/cnlohr/electrical/kicad/da4xbridge
 LibName191=/home/cnlohr/electrical/kicad/11aa-unio-eeprom
 LibName192=/home/cnlohr/electrical/kicad/ws2813
 LibName193=/home/cnlohr/electrical/kicad/ts4231
+LibName194=/home/cnlohr/electrical/kicad/esp32-wroom
+LibName195=/home/cnlohr/electrical/kicad/cp2102n
